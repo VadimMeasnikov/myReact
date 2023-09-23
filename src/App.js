@@ -3,6 +3,7 @@ import './style/App.css';
 function App() {
   return (
     <div className="App">
+      <h1>React</h1>
       <div class="haeder">
         <div class="haeder-container">
           <div class="navigation">
